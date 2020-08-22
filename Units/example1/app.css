@@ -1,0 +1,33 @@
+h1 {
+    font-size: 96px;
+    background-color: lavender;
+    /* line height is set to 100% of the font size of element itself*/
+    line-height: 100%;
+}
+
+#stuff {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 3em;
+    border: 4px dashed orangered;
+    height: 60px;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 0.8em;
+}
+
+#gallery {
+    width: 1000px;
+    border: 3px solid red;
+}
+
+img {
+    width: 33.33333333333%;
+}

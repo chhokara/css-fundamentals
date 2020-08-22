@@ -1,0 +1,29 @@
+h2 {
+    color: orange;
+}
+
+body {
+    background-color: pink;
+}
+
+h1 {
+    background-color: aqua;
+    color: magneta;
+    /* display: inline; */
+}
+
+a {
+    color: white;
+    font-size: 30px;
+}
+
+footer {
+    border: 10px solid teal;
+
+}
+
+img {
+    height: 300px;
+    border: 3px dashed black;
+}
+
